@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
-👋 Passionate about crafting interactive web experiences | Code enthusiast with a love for clean, efficient, and responsive UIs | Let's build amazing user interfaces together! 🚀 #ReactJS #WebDevelopment
+👋 Passionate about crafting interactive web experiences | Code enthusiast with a love for clean, efficient, and responsive UIs | Let's build amazing user interfaces together! 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [chavanvikram503@gmail.com](chavanvikram503@gmail.com)
